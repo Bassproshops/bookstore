@@ -1,0 +1,80 @@
+:root {
+    --primary: #50a7b5;
+    --primarDark: #00A9CB;
+    --primaryLight: #c2f6ff;
+    --grayPrimary: #f1ffff;
+    --success: #0c894f;
+
+  }
+  
+
+.form-header{
+    color:var(--primary);
+    text-align:center;
+    padding:10px 0;
+    padding-top:20px;
+}
+
+label{
+    display:block;
+    cursor:pointer;
+    color:var(--shades);
+    font-weight: bold;
+    margin-top:15px;
+}
+
+.form{
+    width:90%;
+    margin:0 auto;
+}
+
+.form-control input{
+    border:none;
+    outline:none;
+    background:transparent;
+    width:100%;
+    font-size:16px;
+    padding:3px;
+    margin:5px 0;
+}
+
+.form-control input:not(#password), .password-input{
+    border-bottom:3px solid var(--shades);
+
+}
+
+.password-input{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:0 10px ;
+}
+
+.password-input svg{
+    width:20px;
+    height:20px;
+    color:var(--shades);
+}
+
+.eye-container{
+    cursor:pointer;
+}
+
+.form-footer{
+    text-decoration:underline;
+    color:rgb(93, 93, 93);
+    padding:0;
+    margin:20px;
+    cursor:pointer;
+    padding-bottom:20px;
+}
+
+.form-control select{
+    width:100%;
+    padding:10px;
+    background-color:white;
+    box-shadow:0 0 4px gray;
+    border:none;
+    margin-top:10px;
+    outline:none;
+}

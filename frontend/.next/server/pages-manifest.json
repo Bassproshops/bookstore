@@ -1,0 +1,22 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/es/404": "pages/es/404.html",
+  "/es/500": "pages/es/500.html",
+  "/es/sobre-nosotros": "pages/es/sobre-nosotros.html",
+  "/es/carrito": "pages/es/carrito.html",
+  "/es/orden/[id]": "pages/es/orden/[id].html",
+  "/es/admin/administracion": "pages/es/admin/administracion.html",
+  "/es/perfil": "pages/es/perfil.html",
+  "/es/producto/[slug]": "pages/es/producto/[slug].html",
+  "/es/ordenes": "pages/es/ordenes.html",
+  "/es/login": "pages/es/login.html",
+  "/es/registro": "pages/es/registro.html",
+  "/es/buscar/[search]": "pages/es/buscar/[search].html",
+  "/es": "pages/es.html",
+  "/es/admin/ordenes": "pages/es/admin/ordenes.html",
+  "/es/categorias/[slug]": "pages/es/categorias/[slug].html",
+  "/es/admin/ingresos": "pages/es/admin/ingresos.html"
+}

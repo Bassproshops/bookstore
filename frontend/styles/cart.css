@@ -1,0 +1,118 @@
+.cart-container .product-item:first-of-type {
+    border-top: 1px solid #ccc;
+}
+
+.cart-container {
+    width: 95%;
+}
+
+.delete {
+    font-size: 16px;
+    color: var(--shades);
+    text-decoration: underline;
+    cursor: pointer;
+    width:90px;
+}
+
+.cart-container .product-item {
+    cursor: auto;
+}
+
+.cart-container .product-header, .cart-container .price, .cart-container img {
+    cursor: pointer;
+}
+
+.cart-container .product-item {
+    position: relative;
+}
+
+.cart-container .price {
+    position: absolute;
+    top: 0px;
+    right: 20px;
+    font-size: 20px;
+}
+
+@media(max-width: 580px) {
+    .cart-container .price {
+        font-size: 13px;
+    }
+    .cart-container .product-header {
+        font-size: 15px;
+    }
+    .cart-container {
+        width: 100%;
+    }
+}
+
+@media(max-width: 400px){
+    .cart-container .product-header{
+        font-size:16px;
+    }
+ }
+
+
+@media(max-width: 320px){
+    .cart-container .product-header{
+        font-size:12px;
+    }
+ }
+
+@media(max-width: 380px) {
+    .product-item {
+        display: flex;
+        align-items: center;
+    }
+    .product-item-img {
+        max-height: 100px;
+        min-height: 100px;
+        width: 100px;
+    }
+    .product-item-img img {
+        min-height: 100px;
+        max-height: 100px;
+    }
+    .cart-container .product-item {
+        align-items: center;
+        justify-content: flex-start;
+    }
+}
+
+.cart-container .product-header:hover, .cart-container .price:hover {
+    text-decoration: underline;
+}
+
+.product-header{
+    margin-right:60px;
+}
+
+.total {
+    text-align: right;
+    color: var(--shades);
+    font-weight: bold;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.selection-card {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+    box-shadow: 0 0 5px gray;
+    padding: 20px 10px;
+    border-radius: 6px;
+}
+
+.selection-card label {
+    margin: 0;
+}
+
+.card-component {
+    box-shadow: 0 0 10px gray;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+
+.payment-header {
+    color: var(--shades);
+}

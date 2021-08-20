@@ -1,0 +1,30 @@
+.btn{
+    width:100%;
+    border-radius:5px;
+    cursor:pointer;
+    border:none;
+    padding:7px 0;
+    font-size:16px;
+    font-weight: bold;
+}
+
+.btn-success{
+    background-color: var(--success);
+    color:white;
+}
+
+.btn-danger{
+    background-color: red;
+    border:3px solid rgb(82, 1, 1);
+    color:white;
+}
+
+.btn-info{
+    background-color: var(--primarDark);
+    border:3px solid rgb(65, 110, 157);
+    color:white;
+}
+
+.create-btn{
+    font-size:20px;
+}

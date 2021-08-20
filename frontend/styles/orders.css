@@ -1,0 +1,154 @@
+.order-item {
+    width: 100%;
+    box-shadow: 0 0 10px gray;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 30px 0;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:white;
+}
+
+.order-item h3{
+    padding:0 20px;
+}
+
+.order-item .price {
+    width: 400px;
+}
+
+.order-item div {
+    color: var(--primary);
+    margin: 0 40px;
+}
+
+.status-tag {
+    width: 300px;
+    text-align: center;
+    border-radius: 6px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 17px;
+    margin: 20px auto;
+}
+
+.pending-order {
+    background-color: rgba(81, 81, 255, 0.318);
+    color: rgb(41, 62, 103);
+}
+
+.sent-order {
+    background-color: rgba(255, 255, 0, 0.311);
+    color: rgb(116, 116, 28);
+}
+
+.delivered-order {
+    background-color: rgba(6, 128, 34, 0.379);
+    color: rgb(43, 116, 28);
+}
+
+@media(max-width: 768px) {
+    .order-item {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .order-item .price, .order-item .total-payed, .order-item div {
+        width: 100%;
+        text-align: left;
+    }
+    .order-item div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media(max-width: 480px) {
+    .order-item .status-tag {
+        width: 200px;
+    }
+}
+
+.progress-bar {
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+    position: relative;
+    background-color: rgba(128, 128, 128, 0.503);
+    width: 90%;
+}
+
+.progress-bar, .progress {
+    height: 20px;
+    border-radius: 20px;
+}
+
+.progress {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.recieved-p {
+    width: 33%;
+    background-color: rgb(41, 62, 103);
+}
+
+.sent-p {
+    width: 66%;
+    background-color: rgb(41, 62, 103);
+}
+
+.delivered-p {
+    width: 100%;
+    background-color: rgb(41, 62, 103);
+}
+
+.order-header {
+    border-bottom: 1px solid var(--shades);
+}
+
+.progress-bar .hover-tag {
+    bottom: -40px;
+    right: 0;
+    text-align: center;
+}
+
+.img-truck {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    right: 0px;
+    bottom: 20px;
+    color: black;
+}
+
+.pkg-ord {
+    position: relative;
+    width: 70%;
+    margin:0 auto;
+    height: 100%;
+}
+
+.factura-container{
+    width:95%;
+    display:flex;
+    align-items:center;
+    justify-content:flex-end;
+}
+
+.factura{
+    width:200px;
+    text-align:center;
+    background-color:rgb(67, 67, 118);
+
+}
+
+.order-contact-email{
+    color:black;
+    margin:0 40px ;
+}

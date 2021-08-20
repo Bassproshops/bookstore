@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:d="https://loading.io/stock/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.4625"
+     inkscape:cx="82.000073"
+     inkscape:cy="34.561662"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="1280"
+     inkscape:window-y="449"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)">
+    <g
+       id="layer1-8"
+       inkscape:label="Layer 1"
+       transform="matrix(0.52629805,0,0,0.52629805,-35.219968,232.82628)">
+      <g
+         style="stroke:#57d3b4;stroke-opacity:1"
+         transform="matrix(0.52916667,0,0,0.52916667,66.034666,69.919109)"
+         class="ldl-scale"
+         id="g1092">
+        <path
+           inkscape:connector-curvature="0"
+           stroke-miterlimit="10"
+           d="M 45.7,10.2 17.6,26.4 c -2.7,1.5 -4.3,4.4 -4.3,7.4 v 32.4 c 0,3.1 1.6,5.9 4.3,7.4 l 28.1,16.2 c 2.7,1.5 5.9,1.5 8.6,0 L 82.4,73.6 c 2.7,-1.5 4.3,-4.4 4.3,-7.4 V 33.8 c 0,-3.1 -1.6,-5.9 -4.3,-7.4 L 54.3,10.2 c -2.7,-1.6 -5.9,-1.6 -8.6,0 z"
+           style="fill:none;stroke:#57d3b4;stroke-width:8;stroke-miterlimit:10;stroke-opacity:1"
+           id="path1088" />
+        <metadata
+           id="metadata1090">
+          <d:name
+             style="animation-play-state:paused">hexagon</d:name>
+          <d:tags
+             style="animation-play-state:paused">hexagon,disabled,toggle,off,empty,form,select,choice</d:tags>
+          <d:license
+             style="animation-play-state:paused">by</d:license>
+          <d:slug
+             style="animation-play-state:paused">gtdq26</d:slug>
+        </metadata>
+      </g>
+      <g
+         aria-label="R
+"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.51920319px;line-height:1.25;font-family:'Noto Sans Cham';-inkscape-font-specification:'Noto Sans Cham';letter-spacing:0px;word-spacing:0px;fill:#57d3b4;fill-opacity:1;stroke:#57d3b4;stroke-width:0.78799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="text1106">
+        <path
+           d="m 96.027368,97.076994 q 1.000365,0.338585 1.93917,1.446682 0.954194,1.108097 1.908389,3.047264 l 3.155003,6.27922 H 99.690244 L 96.750709,101.9557 Q 95.611832,99.647163 94.534515,98.893041 93.472589,98.13892 91.62576,98.13892 h -3.385851 v 9.71124 H 85.131081 V 84.872536 h 7.017947 q 3.939901,0 5.879071,1.646756 1.939169,1.646755 1.939169,4.971046 0,2.170023 -1.015755,3.601315 -1.000366,1.431292 -2.924145,1.985341 z m -7.787459,-9.649678 v 8.156825 h 3.909119 q 2.246975,0 3.385852,-1.031146 1.154268,-1.046536 1.154268,-3.062657 0,-2.016121 -1.154268,-3.031877 -1.138877,-1.031145 -3.385852,-1.031145 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Cham';-inkscape-font-specification:'Noto Sans Cham';fill:#57d3b4;fill-opacity:1;stroke:#57d3b4;stroke-width:0.78799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path860" />
+      </g>
+    </g>
+  </g>
+</svg>
